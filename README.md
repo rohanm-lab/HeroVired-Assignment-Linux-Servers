@@ -1,7 +1,6 @@
 # HeroVired-Assignment-Linux-Servers
 Created this repository for submitting the Practice-Assignment-Linux-Servers
 
-# HeroVired-Linux-Assignment
 # DevOps System Setup and Automation Assignment
 
 ## Overview
